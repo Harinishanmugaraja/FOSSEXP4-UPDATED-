@@ -2,6 +2,11 @@ PROJECT SETUP
 npm install
 node index.js
 
+DATABASE
+Open MongoDB Compass
+Create new Database named as taskdb
+create collection named as tasks
+
 COMMANDS FOR DEPLOYMENT
 Open Ubuntu/WSL
 sudo apt update
